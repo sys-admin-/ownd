@@ -13,7 +13,7 @@ Installation instructions are as follows:
 
 -->create two blank documents
 
--->paste the contents of one into each folder, save
+-->paste the contents of one into each document, save
 
 ->open ownd.html in your favorite browser
 
