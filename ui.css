@@ -1,9 +1,9 @@
 body {
 	width: 100%;
-	font-family: sans;
+	font-family: arial;
 	size: 10px;
 	color: grey;
-	background-color: #000000;
+	background-color: black;
 	margin: 0;
     padding: 0; }
 
@@ -12,7 +12,7 @@ h1 { font-family: Monospace, Arial }
 .centeralign { text-align: center }
 
 a:link {
-	color: cyan;
+	color: yellow;
 	text-decoration: none }
 a:hover {
 	color: silver;
